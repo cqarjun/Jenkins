@@ -3,12 +3,12 @@ pipeline {
   stages {
     stage('myStage'){
       steps {
-        bat 'dir'
+        bat 'C:\Users\Ideabytes-06\Desktop\ParabankJunit2'
       }
     }
     stage('Build') {
       steps { 
-        bat 'dir'
+        bat 'C:\Users\Ideabytes-06\Desktop\ParabankJunit2'
       }
     }
   }
