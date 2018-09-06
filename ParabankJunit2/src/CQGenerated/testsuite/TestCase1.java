@@ -1,3 +1,4 @@
+
 package CQGenerated.testsuite;
 import org.junit.Test;
 import org.junit.Before;
